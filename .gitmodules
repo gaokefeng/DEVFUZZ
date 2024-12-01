@@ -1,8 +1,8 @@
 [submodule "AFL"]
 	path = AFL
-	url = git@github.com:yiluwusbu/AFL.git
+	url = httpps://github.com/yiluwusbu/AFL.git
 [submodule "s2e/source/qemu"]
-	path = s2e/source/qemu
+	path = s2e/source/qemu      
 	url = https://github.com/S2E/qemu.git
 [submodule "qemu"]
 	path = qemu
